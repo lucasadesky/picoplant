@@ -46,6 +46,8 @@ void setup() {
   // initalize new pin for light sensor
   pinMode(10, INPUT);
 
+  //new lines here
+
   // Set LED off
   digitalWrite(LED_BUILTIN, LOW);
 
